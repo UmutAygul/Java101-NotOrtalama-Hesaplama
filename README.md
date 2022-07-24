@@ -2,5 +2,5 @@
 
 ## [Patika linkim ](https://app.patika.dev/pncili)
 
-![Example's screenshot](/firstq/Java101-NotOrtalama-Hesaplama/question.png?raw=true)
+![Example's screenshot](/question.png?raw=true)
 
