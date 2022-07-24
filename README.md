@@ -1,3 +1,6 @@
 # Java101-NotOrtalama-Hesaplama
 
-www.patika.dev
+## [Patika linkim ](https://app.patika.dev/pncili)
+
+![herhangi yazı](konm)
+
